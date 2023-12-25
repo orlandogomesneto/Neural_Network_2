@@ -3,7 +3,7 @@
 
 Mead is an alcoholic beverage fermented from water and honey produced by the action
 of yeasts, typically strains of *Saccharomyces cerevisiae*, on carbohydrates such as glucose and
-fructose. Producers often face challenges stemming from limited knowledge and lack of control
+fructose. Producers often face challenges stemming from limited knowledge and lack of control 
 over important process parameters. The present work aims to develop a virtual sensor based on
 Artificial Neural Networks capable of predicting the concentration of cells (X), total sugars (S)
 and ethanol (P). during the fermentation to produce mead with the addition of Jabuticaba peel
